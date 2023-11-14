@@ -24,7 +24,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://deepufc.streamlit.app/">
+  <a href="https://papergpt.streamlit.app/">
     <img src="images/logo3.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -72,9 +72,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Paper Screen Shot][product-screenshot]](https://example.com)
+[![Paper Screen Shot][product-screenshot]](https://papergpt.streamlit.app/)
 
-PaperGPT is a cutting-edge Large Language Model (LLM)-based search and recommendation app designed for biomedical papers. Using advanced techniques, it transforms biomedical papers into vectors using [SentenceTransformers][SentenceTransformers-url] and builds an embedding database with [Chroma][Chroma-url]. This empowers users to discover papers that are most similar to their queries within the embedding space through an intuitive web app created with [Streamlit][Streamlit-url].
+[**PaperGPT**](https://papergpt.streamlit.app/) is a cutting-edge Large Language Model (LLM)-based search and recommendation app designed for biomedical papers. Using advanced techniques, it transforms biomedical papers into vectors using [SentenceTransformers][SentenceTransformers-url] and builds an embedding database with [Chroma][Chroma-url]. This empowers users to discover papers that are most similar to their queries within the embedding space through an intuitive web app created with [Streamlit][Streamlit-url].
 
 
 * 🔍 PaperGPT is an advanced LLM app for searching and recommending biomedical papers.

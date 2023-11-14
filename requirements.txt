@@ -2,3 +2,5 @@ chromadb==0.4.17
 Pillow==10.1.0
 streamlit==1.28.1
 sentence-transformers==2.2.2
+biopython==1.81
+tqdm==4.66.1
